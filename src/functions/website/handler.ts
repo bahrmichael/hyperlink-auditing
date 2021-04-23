@@ -10,7 +10,7 @@ export const main = async (event) => {
         
         <p><a href="./" ping="./ping">Home</a></p>
         <p><a href="./about-me" ping="./ping">About Me</a></p>
-        <p><a href="./blog" ping="./ping">Blog</a></p>
+        <p><a href="https://bahr.dev" ping="./ping">Blog</a></p>
         <p><a href="./no-audit">Unaudited Page</a></p>
         
         <hr/>
